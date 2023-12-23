@@ -13,7 +13,12 @@
     "multi-select",
     "enhanced",
     "stats",
-    "counter"
+    "counter",
+    "combobox",
+    "form",
+    "input",
+    "react-component",
+    "ui"
   ],
   "repository": {
     "type": "git",
