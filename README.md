@@ -16,7 +16,8 @@ Install the package using yarn:
 ```bash
 yarn add react-select-enhanced-counter
 ```
-
+## Live Example
+You can see a live example of this package in action on the [React Select Enhanced Counter Live Example.](https://react-select-enhanced-counter.vercel.app/?path=/story/select--single-select)
 ## Usage
 
 ### Single Select Example
