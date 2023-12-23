@@ -5,8 +5,16 @@
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "author": "Samet Kaya",
-  "keywords": ["react","react-select", "single-select","select", "multi-select", "enhanced", "stats", "counter"],
-
+  "keywords": [
+    "react",
+    "react-select",
+    "single-select",
+    "select",
+    "multi-select",
+    "enhanced",
+    "stats",
+    "counter"
+  ],
   "repository": {
     "type": "git",
     "url": ""
@@ -62,9 +70,8 @@
     "rollup-plugin-postcss": "^4.0.2",
     "rollup-plugin-terser": "^7.0.2",
     "rollup-plugin-typescript2": "^0.34.0",
-    "typescript": "^4.8.3"
-  },
-  "dependencies": {
-    "tslib": "^2.4.1"
+    "tslib": "^2.4.1",
+    "typescript": "^4.8.3",
+    "vercel": "^33.0.1"
   }
 }
