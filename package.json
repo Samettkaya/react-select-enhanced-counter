@@ -1,6 +1,6 @@
 {
   "name": "react-select-enhanced-counter",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "description": "A React Select package with 'Select All' feature and a counter for displaying the number of selected items beyond a specified limit.",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -22,7 +22,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Samettkaya/react-select-enhanced-counter"
   },
   "license": "MIT",
   "scripts": {
